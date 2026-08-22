@@ -8,6 +8,9 @@ Query the city names from the STATION table
 for cities with an even ID number.
 Exclude duplicate city names.
 
+Problem Link:
+https://www.hackerrank.com/challenges/weather-observation-station-3/problem
+
 Concepts:
 - SELECT
 - DISTINCT
