@@ -2,11 +2,13 @@
 Problem: Weather Observation Station 5
 Platform: HackerRank
 Difficulty: Easy
+Problem Link: https://www.hackerrank.com/challenges/weather-observation-station-5/problem
 
 Problem:
-Find the city with the shortest city name and the city
-with the longest city name. If there is a tie, choose
-the city that comes first alphabetically.
+Query the two cities in STATION with the shortest and longest
+CITY names, along with their respective lengths. If there is
+more than one shortest or longest city, choose the one that
+comes first alphabetically.
 
 Concepts:
 - SELECT
