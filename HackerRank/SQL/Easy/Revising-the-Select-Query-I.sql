@@ -7,6 +7,9 @@ Problem:
 Select all columns from the CITY table for cities in the USA
 with a population greater than 100,000.
 
+Problem Link:
+https://www.hackerrank.com/challenges/revising-the-select-query/problem
+
 Concepts:
 - SELECT
 - WHERE
