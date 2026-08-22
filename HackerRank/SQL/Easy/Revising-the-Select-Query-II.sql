@@ -7,6 +7,9 @@ Problem:
 Select the names of all American cities from the CITY table
 with a population greater than 120,000.
 
+Problem Link:
+https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
+
 Concepts:
 - SELECT
 - WHERE
@@ -16,4 +19,4 @@ Concepts:
 SELECT NAME
 FROM CITY
 WHERE COUNTRYCODE = 'USA'
-AND POPULATION > 120000;
+  AND POPULATION > 120000;
