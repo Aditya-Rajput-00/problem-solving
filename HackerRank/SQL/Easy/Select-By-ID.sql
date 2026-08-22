@@ -7,6 +7,9 @@ Problem:
 Query all columns from the CITY table for the city
 whose ID is 1661.
 
+Problem Link:
+https://www.hackerrank.com/challenges/select-by-id/problem
+
 Concepts:
 - SELECT
 - WHERE
