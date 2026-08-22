@@ -7,6 +7,9 @@ Problem:
 Find the difference between the total number of CITY entries
 and the number of distinct CITY entries in the STATION table.
 
+Problem Link:
+https://www.hackerrank.com/challenges/weather-observation-station-4/problem
+
 Concepts:
 - COUNT
 - DISTINCT
