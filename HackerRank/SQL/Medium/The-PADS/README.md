@@ -2,7 +2,8 @@
 
 **Difficulty:** Medium  
 **Language:** SQL  
-**Topic:** String Functions, GROUP BY, COUNT, ORDER BY
+**Topic:** String Functions, GROUP BY, COUNT, ORDER BY  
+**Problem Link:** https://www.hackerrank.com/challenges/the-pads/problem
 
 ## Problem
 
