@@ -1,29 +1,40 @@
-# Problem Solving
+# 💻 Problem Solving
 
-A collection of coding problems solved across multiple platforms to improve problem-solving skills, programming fundamentals, and interview preparation.
+> A personal collection of coding problems solved across multiple platforms to strengthen problem-solving skills, programming fundamentals, and technical interview preparation.
 
----
-
-## Platforms
-
-- HackerRank
-- LeetCode (Coming Soon)
-
----
-
-## Languages
-
-- Python
-- SQL
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Problem%20Solving-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Problem%20Solving-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-Active-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
 
 ---
 
-## Repository Structure
+## 🚀 Platforms
+
+| Platform | Status |
+|----------|--------|
+| 🟢 HackerRank | Active |
+| ⚪ LeetCode | Coming Soon |
+
+---
+
+## 🛠️ Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 📂 Repository Structure
 
 ```text
 problem-solving/
 │
 ├── HackerRank/
+│   │
 │   ├── Python/
 │   │   ├── Easy/
 │   │   └── Medium/
@@ -32,28 +43,36 @@ problem-solving/
 │       ├── Easy/
 │       └── Medium/
 │
-└── LeetCode/ (Coming Soon)
+└── LeetCode/
+    └── Coming Soon
 
-## Repository Goals
+```
+---
 
-- Improve problem-solving and logical thinking
-- Build consistent daily coding practice
-- Strengthen Python and SQL fundamentals
-- Learn and apply different problem-solving approaches
-- Prepare for coding assessments and technical interviews
-- Practice writing clean, readable, and maintainable code
-- Understand important programming and SQL concepts through practice
-- Track my problem-solving progress over time
+## 🎯 Repository Goals
+
+| Goal | Focus |
+|------|-------|
+| 🧠 Problem Solving | Improve logical and analytical thinking |
+| 💻 Coding Practice | Build consistent coding habits |
+| 🐍 Python | Strengthen programming fundamentals |
+| 🗄️ SQL | Improve database and query skills |
+| 🎯 Interview Prep | Prepare for coding assessments and technical interviews |
+| ✨ Clean Code | Practice readable and maintainable solutions |
+| 📚 Learning | Understand important concepts through practice |
+| 📈 Progress | Track problem-solving growth over time |
 
 ---
 
-## Progress
+## 📊 Progress
 
-| Platform | Language | Progress |
-|----------|----------|----------|
-| HackerRank | Python | In Progress |
-| HackerRank | SQL | In Progress |
-| LeetCode | — | Coming Soon |
+| Platform | Language | Status |
+|----------|----------|--------|
+| HackerRank | 🐍 Python | 🟢 In Progress |
+| HackerRank | 🗄️ SQL | 🟢 In Progress |
+| LeetCode | — | ⚪ Coming Soon |
+
+---
 
 ### Current Focus
 
@@ -61,6 +80,21 @@ problem-solving/
 - 🗄️ SQL problem solving
 - 🎯 Building consistent coding practice
 - 📚 Preparing for technical interviews
+
+---
+
+## 📝 Problem Documentation
+
+Each solved problem is organized with:
+
+- 📌 Problem name
+- 🎚️ Difficulty
+- 🔗 Original problem link
+- 📝 Short problem description
+- 🧠 Concepts used
+- 💻 Solution
+
+This structure makes each problem easy to understand, review, and revisit.
 
 ---
 
