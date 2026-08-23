@@ -14,6 +14,7 @@ A collection of coding problems solved across multiple platforms to improve prob
 ## Languages
 
 - Python
+- SQL
 
 ---
 
@@ -23,31 +24,43 @@ A collection of coding problems solved across multiple platforms to improve prob
 problem-solving/
 │
 ├── HackerRank/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
+│   ├── Python/
+│   │   ├── Easy/
+│   │   └── Medium/
+│   │
+│   └── SQL/
+│       ├── Easy/
+│       └── Medium/
 │
 └── LeetCode/ (Coming Soon)
-```
-
----
 
 ## Repository Goals
 
-- Improve problem-solving skills
-- Build coding consistency
-- Prepare for technical interviews
-- Practice clean and readable code
-- Document important concepts with README files when needed
+- Improve problem-solving and logical thinking
+- Build consistent daily coding practice
+- Strengthen Python and SQL fundamentals
+- Learn and apply different problem-solving approaches
+- Prepare for coding assessments and technical interviews
+- Practice writing clean, readable, and maintainable code
+- Understand important programming and SQL concepts through practice
+- Track my problem-solving progress over time
 
 ---
 
 ## Progress
 
-| Platform | Solved |
-|----------|--------|
-| HackerRank | Updating... |
-| LeetCode | Coming Soon |
+| Platform | Language | Progress |
+|----------|----------|----------|
+| HackerRank | Python | In Progress |
+| HackerRank | SQL | In Progress |
+| LeetCode | — | Coming Soon |
+
+### Current Focus
+
+- 🐍 Python problem solving
+- 🗄️ SQL problem solving
+- 🎯 Building consistent coding practice
+- 📚 Preparing for technical interviews
 
 ---
 
